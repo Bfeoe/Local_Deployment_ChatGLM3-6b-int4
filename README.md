@@ -272,7 +272,7 @@ NLP/
 └── client.py
 ```
 
-## 项目运行
+### 项目运行
 仅需修改一下 ```main.py``` 文件中的 ```root_path``` 变量，将其修改为你当前的根目录即可使用
 （如果模型文件位置不同，还须修改一下 ```client.py``` 中的 ```model_path``` 变量），如：
 >root_path = "/home/bfeoe/NLP/"
