@@ -272,7 +272,7 @@ NLP/
 └── client.py
 ~~~
 
-## Project run
+### Project run
 Just modify the root_path variable in main.py and change it to your current root directory
 (If the location of the model file is different, you must also modify the model_path variable in client.py), such as:
 >root_path = "/home/bfeoe/NLP/"
