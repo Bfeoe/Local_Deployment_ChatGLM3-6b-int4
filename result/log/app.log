@@ -1,0 +1,494 @@
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:Line 1: ['{"src": "苏轼", "relation": "字", "dst": "子瞻"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人"}', '{"src": "苏轼", "relation": "号", "dst": "东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡"}', '{"src": "苏轼", "relation": "别称", "dst": "苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏黄"}', '{"src": "苏轼", "relation": "称号", "dst": "苏辛"}', '{"src": "苏轼", "relation": "称号", "dst": "欧苏"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:正在使用glm模型，使用zhprompt
+ERROR:root:Error write: We couldn't connect to 'https://huggingface.co' to load this file, couldn't find it in the cached files and it looks like THUDM/chatglm3-6b is not the path to a directory containing a file named config.json.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+INFO:root:正在使用glm模型，使用zhprompt
+ERROR:root:Error write: We couldn't connect to 'https://huggingface.co' to load this file, couldn't find it in the cached files and it looks like THUDM/chatglm3-6b is not the path to a directory containing a file named config.json.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:Line 2: ['{"src": "白居易", "relation": "字", "dst": "乐天"}', '{"src": "白居易", "relation": "号", "dst": "香山居士"}', '{"src": "白居易", "relation": "号", "dst": "醉吟先生"}', '{"src": "白居易", "relation": "祖籍", "dst": "太原"}', '{"src": "白居易", "relation": "出生地", "dst": "河南新郑"}', '{"src": "白居易", "relation": "称号", "dst": "唐代三大诗人之一"}', '{"src": "白居易", "relation": "关系", "dst": "元白"}', '{"src": "白居易", "relation": "称号", "dst": "刘白"}', '{"src": "白居易", "relation": "称号", "dst": "诗魔"}', '{"src": "白居易", "relation": "称号", "dst": "诗王"}', '{"src": "白居易", "relation": "代表作", "dst": "《长恨歌》"}', '{"src": "白居易", "relation": "代表作", "dst": "《卖炭翁》"}', '{"src": "白居易", "relation": "代表作", "dst": "《琵琶行》"}']
+INFO:root:Line 3: ['{"src": "杜甫", "relation": "字", "dst": "子美"}', '{"src": "杜甫", "relation": "自号", "dst": "少陵野老"}', '{"src": "杜甫", "relation": "别称", "dst": "杜工部"}', '{"src": "杜甫", "relation": "别称", "dst": "杜少陵"}', '{"src": "杜甫", "relation": "祖籍", "dst": "河南府巩县（今河南省巩义市）"}', '{"src": "杜甫", "relation": "称号", "dst": "诗圣"}', '{"src": "杜甫", "relation": "代表作", "dst": "诗史"}', '{"src": "杜甫", "relation": "称号", "dst": "大李杜"}', '{"src": "杜甫", "relation": "代表作", "dst": "杜甫草堂"}']
+INFO:root:抽取三元组已全部写入qwen_result_zh.txt中
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:抽取三元组已全部写入glm_result_zh.txt中
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:抽取三元组已全部写入glm_result_zh.txt中
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:抽取三元组已全部写入glm_result_zh.txt中
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:抽取三元组已全部写入glm_result_zh.txt中
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:抽取三元组已全部写入glm_result_zh.txt中
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:正在使用glm模型，使用zhprompt
+ERROR:root:Error write: We couldn't connect to 'https://huggingface.co' to load this file, couldn't find it in the cached files and it looks like THUDM/chatglm3-6b is not the path to a directory containing a file named config.json.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:正在使用glm模型，使用zhprompt
+ERROR:root:Error write: We couldn't connect to 'https://huggingface.co' to load this file, couldn't find it in the cached files and it looks like THUDM/chatglm3-6b is not the path to a directory containing a file named config.json.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+INFO:root:正在使用glm模型，使用zhprompt
+ERROR:root:Error write: We couldn't connect to 'https://huggingface.co' to load this file, couldn't find it in the cached files and it looks like THUDM/chatglm3-6b is not the path to a directory containing a file named config.json.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+INFO:root:正在使用glm模型，使用zhprompt
+ERROR:root:Error write: We couldn't connect to 'https://huggingface.co' to load this file, couldn't find it in the cached files and it looks like THUDM/chatglm3-6b is not the path to a directory containing a file named config.json.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: expected string or bytes-like object
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: expected string or bytes-like object
+INFO:root:正在使用glm模型，使用zhprompt
+ERROR:root:Error write: We couldn't connect to 'https://huggingface.co' to load this file, couldn't find it in the cached files and it looks like THUDM/chatglm3-6b is not the path to a directory containing a file named config.json.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+INFO:root:正在使用glm模型，使用zhprompt
+ERROR:root:Error write: We couldn't connect to 'https://huggingface.co' to load this file, couldn't find it in the cached files and it looks like THUDM/chatglm3-6b is not the path to a directory containing a file named config.json.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+INFO:root:正在使用glm模型，使用zhprompt
+ERROR:root:Error write: We couldn't connect to 'https://huggingface.co' to load this file, couldn't find it in the cached files and it looks like THUDM/chatglm3-6b is not the path to a directory containing a file named config.json.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+INFO:root:正在使用glm模型，使用zhprompt
+ERROR:root:Error write: We couldn't connect to 'https://huggingface.co' to load this file, couldn't find it in the cached files and it looks like THUDM/chatglm3-6b is not the path to a directory containing a file named config.json.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+INFO:root:正在使用glm模型，使用zhprompt
+ERROR:root:Error write: expected string or bytes-like object
+INFO:root:正在使用glm模型，使用zhprompt
+ERROR:root:Error write: expected string or bytes-like object
+INFO:root:正在使用glm模型，使用zhprompt
+ERROR:root:Error write: expected string or bytes-like object
+INFO:root:正在使用glm模型，使用zhprompt
+ERROR:root:Error write: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:Line 1: []
+INFO:root:Line 2: ['{"src":"白居易","relation":"字","dst":"乐天"}', '{"src":"白居易","relation":"号","dst":"香山居士"}', '{"src":"白居易","relation":"祖籍","dst":"太原"}', '{"src":"白居易","relation":"出生地","dst":"河南新郑"}', '{"src":"白居易","relation":"称号","dst":"诗魔"}', '{"src":"白居易","relation":"称号","dst":"诗王"}', '{"src":"白居易","relation":"代表作","dst":"《长恨歌》"}', '{"src":"白居易","relation":"代表作","dst":"《卖炭翁》"}', '{"src":"白居易","relation":"代表作","dst":"《琵琶行》"}']
+INFO:root:Line 3: ['{"src":"杜甫","relation":"字","dst":"杜"}', '{"src":"杜甫","relation":"号","dst":"少陵野老"}', '{"src":"杜甫","relation":"字","dst":"杜"}', '{"src":"杜甫","relation":"祖籍","dst":"河南府巩县(今河南省巩义市)"}', '{"src":"杜甫","relation":"出生地","dst":"成都"}', '{"src":"杜甫","relation":"称号","dst":"诗圣"}', '{"src":"杜甫","relation":"称号","dst":"诗史"}', '{"src":"杜甫","relation":"代表作","dst":"《登高》"}', '{"src":"杜甫","relation":"代表作","dst":"《春望》"}', '{"src":"杜甫","relation":"代表作","dst":"《望岳》"}']
+INFO:root:抽取三元组已全部写入glm_result_zh.txt中
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:Line 1: ['{"src":"苏轼","relation":"字","dst":"子瞻"}', '{"src":"苏轼","relation":"号","dst":"铁冠道人"}', '{"src":"苏轼","relation":"祖籍","dst":"眉州眉山"}', '{"src":"苏轼","relation":"出生地","dst":"四川省眉山市"}', '{"src":"苏轼","relation":"称号","dst":"东坡居士"}', '{"src":"苏轼","relation":"称号","dst":"千古文章四大家"}', '{"src":"苏轼","relation":"代表作","dst":"《东坡七集》"}', '{"src":"苏轼","relation":"代表作","dst":"《潇湘竹石图卷》"}', '{"src":"苏轼","relation":"代表作","dst":"《古木怪石图卷》"}']
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:Line 2: ['{"src": "白居易", "relation": "字", "dst": "乐天"}', '{"src": "白居易", "relation": "号", "dst": "香山居士"}', '{"src": "白居易", "relation": "别号", "dst": "醉吟先生"}', '{"src": "白居易", "relation": "祖籍", "dst": "太原"}', '{"src": "白居易", "relation": "出生地", "dst": "河南新郑"}', '{"src": "白居易", "relation": "称号", "dst": "唐代三大诗人之一"}', '{"src": "白居易", "relation": "合作", "dst": "元稹"}', '{"src": "白居易", "relation": "并称", "dst": "元白"}', '{"src": "白居易", "relation": "并称", "dst": "刘白"}', '{"src": "白居易", "relation": "称号", "dst": "诗魔"}', '{"src": "白居易", "relation": "称号", "dst": "诗王"}', '{"src": "白居易", "relation": "官职", "dst": "翰林学士"}', '{"src": "白居易", "relation": "官职", "dst": "左赞善大夫"}', '{"src": "白居易", "relation": "代表作", "dst": "《长恨歌》"}', '{"src": "白居易", "relation": "代表作", "dst": "《卖炭翁》"}', '{"src": "白居易", "relation": "代表作", "dst": "《琵琶行》"}']
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用glm模型，使用zhprompt
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /glm (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8f0bfa42e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:Line 1: ['{"src":"苏轼","relation":"字","dst":"子瞻"}', '{"src":"苏轼","relation":"号","dst":"铁冠道人"}', '{"src":"苏轼","relation":"祖籍","dst":"眉州眉山"}', '{"src":"苏轼","relation":"出生地","dst":"四川省眉山市"}', '{"src":"苏轼","relation":"称号","dst":"苏文忠公"}', '{"src":"苏轼","relation":"代表作","dst":"《东坡七集》"}', '{"src":"苏轼","relation":"称号","dst":"文通"}', '{"src":"苏轼","relation":"代表作","dst":"《潇湘竹石图卷》"}', '{"src":"苏轼","relation":"称号","dst":"文与可"}', '{"src":"苏轼","relation":"代表作","dst":"《古木怪石图卷》"}']
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: expected string or bytes-like object
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用glm模型，使用zhprompt
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: module 'requests' has no attribute 'POST'
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: expected string or bytes-like object
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: expected string or bytes-like object
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: expected string or bytes-like object
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: expected string or bytes-like object
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: expected string or bytes-like object
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:Line 2: ['{"src": "白居易", "relation": "字", "dst": "乐天"}', '{"src": "白居易", "relation": "号", "dst": "香山居士"}', '{"src": "白居易", "relation": "号", "dst": "醉吟先生"}', '{"src": "白居易", "relation": "祖籍", "dst": "太原"}', '{"src": "白居易", "relation": "出生地", "dst": "河南新郑"}', '{"src": "白居易", "relation": "称号", "dst": "唐代三大诗人之一"}', '{"src": "白居易", "relation": "称号", "dst": "元白"}', '{"src": "白居易", "relation": "称号", "dst": "刘白"}', '{"src": "白居易", "relation": "代表作", "dst": "《长恨歌》"}', '{"src": "白居易", "relation": "代表作", "dst": "《卖炭翁》"}', '{"src": "白居易", "relation": "代表作", "dst": "《琵琶行》"}']
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:Line 3: ['{"src":"杜甫","relation":"字","dst":"子美"}', '{"src":"杜甫","relation":"号","dst":"少陵野老"}', '{"src":"杜甫","relation":"字","dst":"杜工部"}', '{"src":"杜甫","relation":"祖籍","dst":"河南府"}', '{"src":"杜甫","relation":"出生地","dst":"巩义市"}', '{"src":"杜甫","relation":"称号","dst":"诗圣"}', '{"src":"杜甫","relation":"称号","dst":"诗史"}', '{"src":"杜甫","relation":"代表作","dst":"《登高》"}', '{"src":"杜甫","relation":"代表作","dst":"《春望》"}', '{"src":"杜甫","relation":"代表作","dst":"《北征》"}', '{"src":"杜甫","relation":"代表作","dst":"《赤壁》"}', '{"src":"杜甫","relation":"字","dst":"子美"}', '{"src":"杜甫","relation":"号","dst":"少陵野老"}', '{"src":"杜甫","relation":"字","dst":"杜工部"}', '{"src":"杜甫","relation":"祖籍","dst":"河南府"}', '{"src":"杜甫","relation":"出生地","dst":"巩义市"}', '{"src":"杜甫","relation":"称号","dst":"诗圣"}', '{"src":"杜甫","relation":"称号","dst":"诗史"}', '{"src":"杜甫","relation":"代表作","dst":"《登高》"}', '{"src":"杜甫","relation":"代表作","dst":"《春望》"}', '{"src":"杜甫","relation":"代表作","dst":"《北征》"}', '{"src":"杜甫","relation":"代表作","dst":"《赤壁》"}']
+INFO:root:抽取三元组已全部写入glm_result_zh.txt中
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:Line 1: ['{"src":"苏轼","relation":"字","dst":"子瞻"}', '{"src":"苏轼","relation":"号","dst":"铁冠道人"}', '{"src":"苏轼","relation":"祖籍","dst":"眉州眉山(四川省眉山市)"}', '{"src":"苏轼","relation":"出生地","dst":"四川省眉州"}', '{"src":"苏轼","relation":"称号","dst":"文学家"}', '{"src":"苏轼","relation":"称号","dst":"苏黄"}', '{"src":"苏轼","relation":"代表作","dst":"《东坡七集》"}', '{"src":"苏轼","relation":"代表作","dst":"《潇湘竹石图卷》"}', '{"src":"苏轼","relation":"代表作","dst":"《古木怪石图卷》"}']
+INFO:root:Line 2: ['{"src":"白居易","relation":"字","dst":"乐天"}', '{"src":"白居易","relation":"号","dst":"香山居士"}', '{"src":"白居易","relation":"祖籍","dst":"太原"}', '{"src":"白居易","relation":"出生地","dst":"河南新郑"}', '{"src":"白居易","relation":"称号","dst":"诗仙"}', '{"src":"白居易","relation":"称号","dst":"唐代三大诗人之一"}', '{"src":"白居易","relation":"代表作","dst":"《长恨歌》"}', '{"src":"白居易","relation":"代表作","dst":"《卖炭翁》"}', '{"src":"白居易","relation":"代表作","dst":"《琵琶行》"}']
+INFO:root:Line 3: ['{"src":"杜甫","relation":"字","dst":"杜"}', '{"src":"杜甫","relation":"号","dst":"少陵野老"}', '{"src":"杜甫","relation":"字","dst":"杜"}', '{"src":"杜甫","relation":"祖籍","dst":"河南府巩县"}', '{"src":"杜甫","relation":"出生地","dst":"河南省巩义市"}', '{"src":"杜甫","relation":"称号","dst":"诗圣"}', '{"src":"杜甫","relation":"称号","dst":"诗史"}', '{"src":"杜甫","relation":"代表作","dst":"约1400余首诗"}', '{"src":"杜甫","relation":"代表作","dst":"诗艺精湛"}', '{"src":"杜甫","relation":"代表作","dst":"《登高》"}', '{"src":"杜甫","relation":"代表作","dst":"《春望》"}', '{"src":"杜甫","relation":"代表作","dst":"《三吏》"}', '{"src":"杜甫","relation":"代表作","dst":"《赤壁》"}']
+INFO:root:Line 4: ['{"src":"辛弃疾","relation":"字","dst":"辛"}', '{"src":"辛弃疾","relation":"号","dst":"稼轩"}', '{"src":"辛弃疾","relation":"祖籍","dst":"山东东路济南府历城县(今山东省济南市历城区)"}', '{"src":"辛弃疾","relation":"出生地","dst":"历城"}', '{"src":"辛弃疾","relation":"称号","dst":"豪放派词人"}', '{"src":"辛弃疾","relation":"称号","dst":"词中之龙"}', '{"src":"辛弃疾","relation":"代表作","dst":"青莲居士"}', '{"src":"辛弃疾","relation":"代表作","dst":"破阵子"}', '{"src":"辛弃疾","relation":"代表作","dst":"永遇乐"}', '{"src":"辛弃疾","relation":"代表作","dst":"水调歌头"}']
+INFO:root:Line 5: ['{"src":"李清照","relation":"字","dst":"易安"}', '{"src":"李清照","relation":"号","dst":"易安居士"}', '{"src":"李清照","relation":"祖籍","dst":"山东省济南章丘人"}', '{"src":"李清照","relation":"出生地","dst":"山东省济南章丘人"}', '{"src":"李清照","relation":"称号","dst":"千古第一才女"}', '{"src":"李清照","relation":"代表作","dst":"《如梦令》"}', '{"src":"李清照","relation":"称号","dst":"婉约词派代表"}', '{"src":"李清照","relation":"代表作","dst":"《声声慢》"}', '{"src":"李清照","relation":"称号","dst":"李清照"}', '{"src":"李清照","relation":"代表作","dst":"《如梦令》"}']
+INFO:root:Line 6: ['{"src":"李白","relation":"字","dst":"太白"}', '{"src":"李白","relation":"号","dst":"青莲居士"}', '{"src":"李白","relation":"字","dst":"太白"}', '{"src":"李白","relation":"祖籍","dst":"陇西成纪(今甘肃省秦安县)"}', '{"src":"李白","relation":"出生地","dst":"蜀郡绵州昌隆县(一说出生于西域碎叶)"}', '{"src":"李白","relation":"称号","dst":"诗仙"}', '{"src":"李白","relation":"称号","dst":"李杜"}', '{"src":"李白","relation":"代表作","dst":"《望庐山瀑布》"}', '{"src":"李白","relation":"代表作","dst":"《行路难》"}', '{"src":"李白","relation":"代表作","dst":"《蜀道难》"}', '{"src":"李白","relation":"代表作","dst":"《将进酒》"}', '{"src":"李白","relation":"代表作","dst":"《早发白帝城》"}']
+INFO:root:Line 7: ['{"src":"纳兰性德","relation":"字","dst":"容若"}', '{"src":"纳兰性德","relation":"号","dst":"楞伽山人"}', '{"src":"纳兰性德","relation":"祖籍","dst":"满洲"}', '{"src":"纳兰性德","relation":"出生地","dst":"北京"}', '{"src":"纳兰性德","relation":"称号","dst":"词圣"}', '{"src":"纳兰性德","relation":"称号","dst":"纳兰"}', '{"src":"纳兰性德","relation":"代表作","dst":"《长恨歌》"}']
+INFO:root:Line 8: ['{"src":"李商隐","relation":"字","dst":"义山"}', '{"src":"李商隐","relation":"号","dst":"玉溪(谿)生"}', '{"src":"李商隐","relation":"祖籍","dst":"河内(今河南省焦作市)沁阳"}', '{"src":"李商隐","relation":"出生地","dst":"郑州荥阳"}', '{"src":"李商隐","relation":"称号","dst":"小李杜"}', '{"src":"李商隐","relation":"称号","dst":"诗仙"}', '{"src":"李商隐","relation":"代表作","dst":"《望庐山瀑布》"}', '{"src":"李商隐","relation":"代表作","dst":"《行路难》"}', '{"src":"李商隐","relation":"代表作","dst":"《蜀道难》"}', '{"src":"李商隐","relation":"代表作","dst":"《将进酒》"}', '{"src":"李商隐","relation":"代表作","dst":"《早发白帝城》"}']
+INFO:root:Line 9: ['{"src":"陆游","relation":"字","dst":"务观"}', '{"src":"陆游","relation":"号","dst":"放翁"}', '{"src":"陆游","relation":"祖籍","dst":"浙江绍兴"}', '{"src":"陆游","relation":"出生地","dst":"越州山阴"}', '{"src":"陆游","relation":"称号","dst":"爱国诗人"}', '{"src":"陆游","relation":"代表作","dst":"《游山西村》"}']
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:Line 10: ['{"src": "陶渊明", "relation": "名", "dst": "潜"}', '{"src": "陶渊明", "relation": "字", "dst": "元亮"}', '{"src": "陶渊明", "relation": "别号", "dst": "五柳先生"}', '{"src": "陶渊明", "relation": "私谥", "dst": "靖节"}', '{"src": "陶渊明", "relation": "世称", "dst": "靖节先生"}', '{"src": "陶渊明", "relation": "祖籍", "dst": "寻阳郡柴桑县（今江西九江）"}', '{"src": "陶渊明", "relation": "出生地", "dst": "寻阳郡柴桑县（今江西九江）或江西宜丰"}', '{"src": "陶渊明", "relation": "称号", "dst": "隐逸诗人之宗, 田园诗派之鼻祖"}', '{"src": "陶渊明", "relation": "代表作", "dst": "《陶渊明集》"}']
+INFO:root:Line 11: ['{"src": "刘禹锡", "relation": "字", "dst": "梦得"}', '{"src": "刘禹锡", "relation": "籍贯", "dst": "河南洛阳"}', '{"src": "刘禹锡", "relation": "出生地", "dst": "河南郑州荥阳"}', '{"src": "刘禹锡", "relation": "自述", "dst": "家本荥上，籍占洛阳"}', '{"src": "刘禹锡", "relation": "称号", "dst": "诗豪"}', '{"src": "刘禹锡", "relation": "自称", "dst": "汉中山靖王后裔"}']
+INFO:root:Line 12: ['{"src": "李煜", "relation": "字", "dst": "重光"}', '{"src": "李煜", "relation": "号", "dst": "钟隐、莲峰居士"}', '{"src": "李煜", "relation": "祖籍", "dst": "彭城（今江苏徐州铜山区）"}', '{"src": "李煜", "relation": "出生地", "dst": "金陵（今江苏南京）"}', '{"src": "李煜", "relation": "称号", "dst": "南唐元宗（即南唐中主）"}', '{"src": "李煜", "relation": "代表作", "dst": "词作，尤以词成就最高"}', '{"src": "李煜", "relation": "代表作", "dst": "亡国后词作，题材广泛，含意深沉"}']
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: expected string or bytes-like object
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: expected string or bytes-like object
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:Line 13: ['{"src": "杜牧", "relation": "字", "dst": "牧之"}', '{"src": "杜牧", "relation": "号", "dst": "樊川居士"}', '{"src": "杜牧", "relation": "祖籍", "dst": "京兆万年（今陕西西安）"}', '{"src": "杜牧", "relation": "称号", "dst": "小杜"}', '{"src": "杜牧", "relation": "称号", "dst": "小李杜"}', '{"src": "杜牧", "relation": "代表作", "dst": "《樊川文集》"}']
+INFO:root:Line 14: ['{"src": "韩愈", "relation": "字", "dst": "退之"}', '{"src": "韩愈", "relation": "祖籍", "dst": "昌黎（今辽宁义县）"}', '{"src": "韩愈", "relation": "别称", "dst": "韩昌黎"}', '{"src": "韩愈", "relation": "别称", "dst": "昌黎先生"}', '{"src": "韩愈", "relation": "出生地", "dst": "河南河阳（今河南孟州）"}', '{"src": "韩愈", "relation": "出生地", "dst": "一说怀州修武（今河南修武）"}', '{"src": "韩愈", "relation": "称号", "dst": "韩吏部"}', '{"src": "韩愈", "relation": "谥号", "dst": "文"}', '{"src": "韩愈", "relation": "代表作", "dst": "《韩昌黎集》"}']
+INFO:root:Line 15: ['{"src": "欧阳修", "relation": "字", "dst": "永叔"}', '{"src": "欧阳修", "relation": "号", "dst": "醉翁"}', '{"src": "欧阳修", "relation": "晚号", "dst": "六一居士"}', '{"src": "欧阳修", "relation": "祖籍", "dst": "江南西路吉州庐陵永丰（今江西省吉安市永丰县）"}', '{"src": "欧阳修", "relation": "出生地", "dst": "绵州（今四川省绵阳市）"}', '{"src": "欧阳修", "relation": "谥号", "dst": "文忠"}', '{"src": "欧阳修", "relation": "称号", "dst": "欧阳文忠公"}', '{"src": "欧阳修", "relation": "代表作", "dst": "《新唐书》"}', '{"src": "欧阳修", "relation": "代表作", "dst": "《新五代史》"}', '{"src": "欧阳修", "relation": "代表作", "dst": "《欧阳文忠公集》"}']
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:Line 16: ['{"src": "王安石", "relation": "字", "dst": "介甫"}', '{"src": "王安石", "relation": "号", "dst": "半山"}', '{"src": "王安石", "relation": "谥", "dst": "文"}', '{"src": "王安石", "relation": "封爵", "dst": "荆国公"}', '{"src": "王安石", "relation": "号", "dst": "王荆公"}', '{"src": "王安石", "relation": "祖籍", "dst": "北宋抚州临川人（今江西省抚州市临川区邓家巷人）"}', '{"src": "王安石", "relation": "朝代", "dst": "北宋"}', '{"src": "王安石", "relation": "称号", "dst": "唐宋八大家之一"}', '{"src": "王安石", "relation": "称赞", "dst": "欧阳修"}', '{"src": "王安石", "relation": "代表作", "dst": "《王临川集》"}', '{"src": "王安石", "relation": "代表作", "dst": "《临川集拾遗》"}', '{"src": "王安石", "relation": "代表作", "dst": "《桂枝香》"}', '{"src": "王安石", "relation": "诗句", "dst": "《泊船瓜洲》中的‘春风又绿江南岸，明月何时照我还。’"}']
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:Line 17: ['{"src": "柳宗元", "relation": "字", "dst": "子厚"}', '{"src": "柳宗元", "relation": "祖籍", "dst": "河东（今山西运城）"}', '{"src": "柳宗元", "relation": "出生地", "dst": "河东（今山西运城）"}', '{"src": "柳宗元", "relation": "称号", "dst": "柳河东"}', '{"src": "柳宗元", "relation": "别称", "dst": "柳柳州"}', '{"src": "柳宗元", "relation": "代表作", "dst": "《永州八记》"}', '{"src": "柳宗元", "relation": "并称", "dst": "刘柳"}', '{"src": "柳宗元", "relation": "并称", "dst": "韩柳"}', '{"src": "柳宗元", "relation": "并称", "dst": "王孟韦柳"}']
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:Line 18: ['{"src": "屈原", "relation": "字", "dst": "原"}', '{"src": "屈原", "relation": "号", "dst": "正则, 灵均"}', '{"src": "屈原", "relation": "祖籍", "dst": "楚国丹阳秭归（今湖北宜昌）"}', '{"src": "屈原", "relation": "出生地", "dst": "楚国丹阳秭归（今湖北宜昌）"}', '{"src": "屈原", "relation": "称号", "dst": "楚辞之祖"}', '{"src": "屈原", "relation": "称号", "dst": "中国浪漫主义文学的奠基人"}', '{"src": "屈原", "relation": "代表作", "dst": "《楚辞》"}', '{"src": "屈原", "relation": "代表作", "dst": "‘香草美人’的传统"}', '{"src": "屈原", "relation": "代表作", "dst": "《离骚》"}']
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:Line 18: ['{"src": "屈原", "relation": "字", "dst": "原"}', '{"src": "屈原", "relation": "号", "dst": "正则, 灵均"}', '{"src": "屈原", "relation": "祖籍", "dst": "楚国丹阳秭归(今湖北宜昌)"}', '{"src": "屈原", "relation": "出生地", "dst": "楚国丹阳秭归(今湖北宜昌)"}', '{"src": "屈原", "relation": "称号", "dst": "楚辞之祖"}', '{"src": "屈原", "relation": "代表作", "dst": "楚辞"}', '{"src": "屈原", "relation": "代表作", "dst": "《离骚》"}', '{"src": "屈原", "relation": "关系", "dst": "战国时期楚国诗人、政治家"}', '{"src": "屈原", "relation": "去世", "dst": "汨罗江"}', '{"src": "屈原", "relation": "节日", "dst": "端午节"}']
+INFO:root:Line 18: ['{"src": "屈原", "relation": "字", "dst": "原"}', '{"src": "屈原", "relation": "号", "dst": "正则"}', '{"src": "屈原", "relation": "号", "dst": "灵均"}', '{"src": "屈原", "relation": "出生地", "dst": "楚国丹阳秭归（今湖北宜昌）"}', '{"src": "屈原", "relation": "称号", "dst": "楚辞之祖"}', '{"src": "屈原", "relation": "代表作", "dst": "《楚辞》"}', '{"src": "屈原", "relation": "代表作", "dst": "《离骚》"}']
+INFO:root:Line 18: ['{"src": "屈原", "relation": "字", "dst": "原"}', '{"src": "屈原", "relation": "号", "dst": "正则"}', '{"src": "屈原", "relation": "字", "dst": "灵均"}', '{"src": "屈原", "relation": "出生地", "dst": "楚国丹阳秭归（今湖北宜昌）"}', '{"src": "屈原", "relation": "称号", "dst": "楚辞之祖"}', '{"src": "屈原", "relation": "称号", "dst": "中国浪漫主义文学的奠基人"}', '{"src": "屈原", "relation": "代表作", "dst": "楚辞"}']
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:Line 18: ['{"src": "屈原", "relation": "字", "dst": "原"}', '{"src": "屈原", "relation": "号", "dst": "正则"}', '{"src": "屈原", "relation": "字", "dst": "灵均"}', '{"src": "屈原", "relation": "祖籍", "dst": "楚国丹阳秭归（今湖北宜昌）"}', '{"src": "屈原", "relation": "出生地", "dst": "楚国丹阳秭归（今湖北宜昌）"}', '{"src": "屈原", "relation": "称号", "dst": "楚辞之祖"}', '{"src": "屈原", "relation": "称号", "dst": "中国浪漫主义文学的奠基人"}', '{"src": "屈原", "relation": "代表作", "dst": "《楚辞》"}']
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc574f743a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3657da44c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fedccfa4490>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdb13e80490>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7faa961a84c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc060198460>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa00599c3d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:正在使用qwen模型，使用zhprompt
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1582ba0430>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:Line 19: ['{"src": "柳永", "relation": "字", "dst": "景庄"}', '{"src": "柳永", "relation": "后改名", "dst": "永"}', '{"src": "柳永", "relation": "字", "dst": "耆卿"}', '{"src": "柳永", "relation": "排行", "dst": "第七"}', '{"src": "柳永", "relation": "别称", "dst": "柳七"}', '{"src": "柳永", "relation": "朝代", "dst": "北宋"}', '{"src": "柳永", "relation": "祖籍", "dst": "崇安（今福建武夷山）"}', '{"src": "柳永", "relation": "称号", "dst": "柳屯田"}', '{"src": "柳永", "relation": "自称", "dst": "奉旨填词柳三变, 白衣卿相"}', '{"src": "柳永", "relation": "代表作", "dst": "《雨霖铃》"}', '{"src": "柳永", "relation": "代表作", "dst": "《八声甘州》"}']
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:Line 20: ['{"src": "孟浩然", "relation": "字", "dst": "浩然"}', '{"src": "孟浩然", "relation": "号", "dst": "孟山人"}', '{"src": "孟浩然", "relation": "祖籍", "dst": "襄州襄阳（今湖北襄阳）"}', '{"src": "孟浩然", "relation": "出生地", "dst": "襄州襄阳（今湖北襄阳）"}', '{"src": "孟浩然", "relation": "称号", "dst": "孟襄阳"}', '{"src": "孟浩然", "relation": "称号", "dst": "孟山人"}', '{"src": "孟浩然", "relation": "称号", "dst": "王孟"}', '{"src": "孟浩然", "relation": "代表作", "dst": "《孟浩然集》"}']
+INFO:root:正在使用qwen模型，使用zhprompt
+INFO:root:Line 20: ['{"src":"孟浩然","relation":"字","dst":"浩然"}', '{"src":"孟浩然","relation":"号","dst":"孟山人"}', '{"src":"孟浩然","relation":"祖籍","dst":"襄州襄阳(今湖北襄阳)"}', '{"src":"孟浩然","relation":"出生地","dst":"鹿门山"}', '{"src":"孟浩然","relation":"称号","dst":"山水田园派诗人"}', '{"src":"孟浩然","relation":"称号","dst":"唐代著名诗人"}', '{"src":"孟浩然","relation":"代表作","dst":"《夏日山中》"}', '{"src":"孟浩然","relation":"代表作","dst":"《春夜喜雨》"}', '{"src":"孟浩然","relation":"代表作","dst":"《孟浩然集》三卷"}']
+ERROR:root:Error write: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+INFO:root:正在使用glm模型，使用zhprompt
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /glm (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcc73aa02e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:Line 1: ['{"src":"苏轼","relation":"字","dst":"子瞻"}', '{"src":"苏轼","relation":"号","dst":"铁冠道人"}', '{"src":"苏轼","relation":"祖籍","dst":"眉州眉山(四川省眉山市)"}', '{"src":"苏轼","relation":"出生地","dst":"四川省眉州"}', '{"src":"苏轼","relation":"称号","dst":"文豪"}', '{"src":"苏轼","relation":"称号","dst":"苏黄"}', '{"src":"苏轼","relation":"代表作","dst":"《东坡七集》"}', '{"src":"苏轼","relation":"代表作","dst":"《东坡乐府》"}', '{"src":"苏轼","relation":"代表作","dst":"《潇湘竹石图卷》"}', '{"src":"苏轼","relation":"代表作","dst":"《古木怪石图卷》"}']
+INFO:root:Line 2: ['{"src":"白居易","relation":"字","dst":"乐天"}', '{"src":"白居易","relation":"号","dst":"香山居士"}', '{"src":"白居易","relation":"祖籍","dst":"太原"}', '{"src":"白居易","relation":"出生地","dst":"河南新郑"}', '{"src":"白居易","relation":"称号","dst":"唐代三大诗人之一"}', '{"src":"白居易","relation":"称号","dst":"诗仙"}', '{"src":"白居易","relation":"代表作","dst":"《长恨歌》"}', '{"src":"白居易","relation":"代表作","dst":"《琵琶行》"}', '{"src":"白居易","relation":"称号","dst":"新乐府运动倡导者"}']
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:Line 3: ['{"src":"白居易","relation":"字","dst":"乐天"}', '{"src":"白居易","relation":"号","dst":"香山居士"}', '{"src":"白居易","relation":"祖籍","dst":"太原"}', '{"src":"白居易","relation":"出生地","dst":"河南新郑"}', '{"src":"白居易","relation":"称号","dst":"诗仙"}', '{"src":"白居易","relation":"称号","dst":"唐代三大诗人之一"}', '{"src":"白居易","relation":"代表作","dst":"长恨歌"}', '{"src":"白居易","relation":"代表作","dst":"琵琶行"}', '{"src":"白居易","relation":"称号","dst":"新乐府运动倡导者"}']
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:Line 1: ['{n  "src": "李白",n  "relation": "字",n  "dst": "太白"n}', '{n  "src": "李白",n  "relation": "号",n  "dst": "青莲居士"n}', '{n  "src": "李白",n  "relation": "字",n  "dst": "太白"n}', '{n  "src": "李白",n  "relation": "祖籍",n  "dst": "陇西成纪(今甘肃省秦安县)"n}', '{n  "src": "李白",n  "relation": "出生地",n  "dst": "蜀郡绵州昌隆县(一说出生于西域碎叶)"n}', '{n  "src": "李白",n  "relation": "称号",n  "dst": "诗仙"n}', '{n  "src": "李白",n  "relation": "称号",n  "dst": "李杜"n}', '{n  "src": "李白",n  "relation": "代表作",n  "dst": 《望庐山瀑布》n}', '{n  "src": "李白",n  "relation": "代表作",n  "dst": 《行路难》n}', '{n  "src": "李白",n  "relation": "代表作",n  "dst": 《蜀道难》n}', '{n  "src": "李白",n  "relation": "代表作",n  "dst": 《将进酒》n}', '{n  "src": "李白",n  "relation": "代表作",n  "dst": 《早发白帝城》n}']
+INFO:root:Line 2: ['{"src":"苏轼","relation":"字","dst":"子瞻"}', '{"src":"苏轼","relation":"号","dst":"铁冠道人"}', '{"src":"苏轼","relation":"祖籍","dst":"眉州眉山"}', '{"src":"苏轼","relation":"出生地","dst":"四川省眉山市"}', '{"src":"苏轼","relation":"称号","dst":"文豪"}', '{"src":"苏轼","relation":"称号","dst":"苏黄"}', '{"src":"苏轼","relation":"代表作","dst":"《东坡七集》"}', '{"src":"苏轼","relation":"代表作","dst":"《东坡乐府》"}', '{"src":"苏轼","relation":"代表作","dst":"《潇湘竹石图卷》"}', '{"src":"苏轼","relation":"代表作","dst":"《古木怪石图卷》"}']
+INFO:root:Line 3: ['{n    "src": "白居易",n    "relation": "字",n    "dst": "乐天"n  }', '{n    "src": "白居易",n    "relation": "号",n    "dst": "香山居士"n  }', '{n    "src": "白居易",n    "relation": "祖籍",n    "dst": "太原"n  }', '{n    "src": "白居易",n    "relation": "出生地",n    "dst": "河南新郑"n  }', '{n    "src": "白居易",n    "relation": "称号",n    "dst": "唐代三大诗人之一"n  }', '{n    "src": "白居易",n    "relation": "称号",n    "dst": "唐代三大诗人之一"n  }', '{n    "src": "白居易",n    "relation": "代表作",n    "dst": "《长恨歌》"n  }', '{n    "src": "白居易",n    "relation": "代表作",n    "dst": "《琵琶行》"n  }']
+INFO:root:Line 4: ['{"src":"杜甫","relation":"字","dst":"杜"}', '{"src":"杜甫","relation":"号","dst":"少陵野老"}', '{"src":"杜甫","relation":"字","dst":"杜"}', '{"src":"杜甫","relation":"祖籍","dst":"河南府巩县(今河南省巩义市)"}', '{"src":"杜甫","relation":"出生地","dst":"成都"}', '{"src":"杜甫","relation":"称号","dst":"诗圣"}', '{"src":"杜甫","relation":"称号","dst":"诗史"}', '{"src":"杜甫","relation":"代表作","dst":"《登高》"}', '{"src":"杜甫","relation":"代表作","dst":"《春望》"}', '{"src":"杜甫","relation":"代表作","dst":"《望岳》"}', '{"src":"杜甫","relation":"代表作","dst":"《安塞腰鼓》"}']
+INFO:root:正在使用glm模型，使用zhprompt
+INFO:root:抽取三元组已全部写入glm_result_zh.txt中
+INFO:root:正在使用glm模型，使用zhprompt，处理名为中华文化通识预处理.txt文件
+INFO:root:Line 0: ['{"src":"苏轼","relation":"字","dst":"子瞻"}', '{"src":"苏轼","relation":"号","dst":"铁冠道人"}', '{"src":"苏轼","relation":"祖籍","dst":"眉州眉山(四川省眉山市)"}', '{"src":"苏轼","relation":"出生地","dst":"四川省眉州"}', '{"src":"苏轼","relation":"称号","dst":"宋史大家"}', '{"src":"苏轼","relation":"称号","dst":"文学巨擘"}', '{"src":"苏轼","relation":"代表作","dst":"《赤壁怀古》"}', '{"src":"苏轼","relation":"代表作","dst":"《水调歌头》"}']
+ERROR:root:Error write: [Errno 2] No such file or directory: 'result/log/last_line.json'
+INFO:root:正在使用glm模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:Line 0: ['{"src":"苏轼","relation":"字","dst":"子瞻"}', '{"src":"苏轼","relation":"号","dst":"东坡居士"}', '{"src":"苏轼","relation":"祖籍","dst":"眉州眉山(四川省眉山市)"}', '{"src":"苏轼","relation":"出生地","dst":"四川眉州"}', '{"src":"苏轼","relation":"称号","dst":"文青"}', '{"src":"苏轼","relation":"称号","dst":"北宋中期文坛领袖"}', '{"src":"苏轼","relation":"代表作","dst":"《赤壁赋》"}', '{"src":"苏轼","relation":"字","dst":"子瞻"}', '{"src":"苏轼","relation":"号","dst":"东坡居士"}', '{"src":"苏轼","relation":"祖籍","dst":"眉州眉山(四川省眉山市)"}', '{"src":"苏轼","relation":"出生地","dst":"四川眉州"}', '{"src":"苏轼","relation":"称号","dst":"文青"}', '{"src":"苏轼","relation":"称号","dst":"北宋中期文坛领袖"}', '{"src":"苏轼","relation":"代表作","dst":"《赤壁赋》"}']
+INFO:root:抽取三元组已全部写入result/glm_result_zh.txt中
+INFO:root:Line 1: ['{"src":"李白","relation":"字","dst":"太白"}', '{"src":"李白","relation":"号","dst":"青莲居士"}', '{"src":"李白","relation":"字","dst":"太白"}', '{"src":"李白","relation":"祖籍","dst":"陇西成纪(今甘肃省秦安县)"}', '{"src":"李白","relation":"出生地","dst":"蜀郡绵州昌隆县(一说出生于西域碎叶)"}', '{"src":"李白","relation":"称号","dst":"诗仙"}', '{"src":"李白","relation":"称号","dst":"李杜"}', '{"src":"李白","relation":"代表作","dst":"《望庐山瀑布》"}', '{"src":"李白","relation":"代表作","dst":"《行路难》"}', '{"src":"李白","relation":"代表作","dst":"《蜀道难》"}', '{"src":"李白","relation":"代表作","dst":"《将进酒》"}', '{"src":"李白","relation":"代表作","dst":"《早发白帝城》"}']
+INFO:root:抽取三元组已全部写入result/glm_result_zh.txt中
+INFO:root:Line 2: ['{"src":"杜甫","relation":"字","dst":"子美"}', '{"src":"杜甫","relation":"号","dst":"少陵野老"}', '{"src":"杜甫","relation":"字","dst":"杜工部"}', '{"src":"杜甫","relation":"祖籍","dst":"河南府巩县(今河南省巩义市)"}', '{"src":"杜甫","relation":"出生地","dst":"成都"}', '{"src":"杜甫","relation":"称号","dst":"诗圣"}', '{"src":"杜甫","relation":"称号","dst":"诗史"}', '{"src":"杜甫","relation":"代表作","dst":"《登高》"}', '{"src":"杜甫","relation":"代表作","dst":"《春望》"}', '{"src":"杜甫","relation":"代表作","dst":"《三吏》"}', '{"src":"杜甫","relation":"代表作","dst":"《紧箍咒》"}']
+INFO:root:抽取三元组已全部写入result/glm_result_zh.txt中
+INFO:root:正在使用glm模型，使用zhprompt，处理名为《Test.txt》文件
+ERROR:root:Error open file:'Test.txt': [Errno 2] No such file or directory: 'Test.txt'
+INFO:root:正在使用glm模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 0: ['{"src":"苏轼","relation":"字","dst":"子瞻"}', '{"src":"苏轼","relation":"号","dst":"铁冠道人"}', '{"src":"苏轼","relation":"祖籍","dst":"眉州眉山"}', '{"src":"苏轼","relation":"出生地","dst":"四川省眉山市"}', '{"src":"苏轼","relation":"称号","dst":"苏门四学士"}', '{"src":"苏轼","relation":"称号","dst":"文学巨擘"}', '{"src":"苏轼","relation":"代表作","dst":"《赤壁怀古》"}', '{"src":"苏轼","relation":"代表作","dst":"《水调歌头》"}']
+INFO:root:Line 1: ['{"src":"白居易","relation":"字","dst":"乐天"}', '{"src":"白居易","relation":"号","dst":"香山居士"}', '{"src":"白居易","relation":"字","dst":"乐天"}', '{"src":"白居易","relation":"祖籍","dst":"太原"}', '{"src":"白居易","relation":"出生地","dst":"河南新郑"}', '{"src":"白居易","relation":"称号","dst":"唐代三大诗人之一"}', '{"src":"白居易","relation":"称号","dst":"诗仙"}', '{"src":"白居易","relation":"代表作","dst":"《长恨歌》"}', '{"src":"白居易","relation":"代表作","dst":"《琵琶行》"}', '{"src":"白居易","relation":"代表作","dst":"《卖炭翁》"}', '{"src":"白居易","relation":"代表作","dst":"《大林寺桃花》"}', '{"src":"白居易","relation":"代表作","dst":"《长恨歌》"}', '{"src":"白居易","relation":"代表作","dst":"《琵琶行》"}', '{"src":"白居易","relation":"代表作","dst":"《卖炭翁》"}', '{"src":"白居易","relation":"代表作","dst":"《大林寺桃花》"}', '{"src":"白居易","relation":"代表作","dst":"《长恨歌》"}', '{"src":"白居易","relation":"代表作","dst":"《琵琶行》"}', '{"src":"白居易","relation":"代表作","dst":"《卖炭翁》"}', '{"src":"白居易","relation":"代表作","dst":"《大林寺桃花》"}', '{"src":"白居易","relation":"代表作","dst":"《长恨歌》"}', '{"src":"白居易","relation":"代表作","dst":"《琵琶行》"}', '{"src":"白居易","relation":"代表作","dst":"《卖炭翁》"}', '{"src":"白居易","relation":"代表作","dst":"《大林寺桃花》"}', '{"src":"白居易","relation":"代表作","dst":"《长恨歌》"}', '{"src":"白居易","relation":"代表作","dst":"《琵琶行》"}', '{"src":"白居易","relation":"代表作","dst":"《卖炭翁》"}', '{"src":"白居易","relation":"代表作","dst":"《大林寺桃花》"}', '{"src":"白居易","relation":"代表作","dst":"《长恨歌》"}', '{"src":"白居易","relation":"代表作","dst":"《琵琶行》"}', '{"src":"白居易","relation":"代表作","dst":"《卖炭翁》"}', '{"src":"白居易","relation":"代表作","dst":"《大林寺桃花》"}', '{"src":"白居易","relation":"代表作","dst":"《长恨歌》"}', '{"src":"白居易","relation":"代表作","dst":"《琵琶行》"}', '{"src":"白居易","relation":"代表作","dst":"《卖炭翁》"}', '{"src":"白居易","relation":"代表作","dst":"《大林寺桃花》"}', '{"src":"白居易","relation":"代表作","dst":"《长恨歌》"}', '{"src":"白居易","relation":"代表作","dst":"《琵琶行》"}', '{"src":"白居易","relation":"代表作","dst":"《卖炭翁》"}', '{"src":"白居易","relation":"代表作","dst":"《大林寺桃花》"}', '{"src":"白居易","relation":"代表作","dst":"《长恨歌》"}', '{"src":"白居易","relation":"代表作","dst":"《琵琶行》"}', '{"src":"白居易","relation":"代表作","dst":"《卖炭翁》"}', '{"src":"白居易","relation":"代表作","dst":"《大林寺桃花》"}', '{"src":"白居易","relation":"代表作","dst":"《长恨歌》"}', '{"src":"白居易","relation":"代表作","dst":"《琵琶行》"}', '{"src":"白居易","relation":"代表作","dst":"《卖炭翁》"}', '{"src":"白居易","relation":"代表作","dst":"《大林寺桃花》"}', '{"src":"白居易","relation":"代表作","dst":"《长恨歌》"}', '{"src":"白居易","relation":"代表作","dst":"《琵琶行》"}', '{"src":"白居易","relation":"代表作","dst":"《卖炭翁》"}', '{"src":"白居易","relation":"代表作","dst":"《大林寺桃花》"}', '{"src":"白居易","relation":"代表作","dst":"《长恨歌》"}', '{"src":"白居易","relation":"代表作","dst":"《琵琶行》"}', '{"src":"白居易","relation":"代表作","dst":"《卖炭翁》"}', '{"src":"白居易","relation":"代表作","dst":"《大林寺桃花》"}', '{"src":"白居易","relation":"代表作","dst":"《长恨歌》"}', '{"src":"白居易","relation":"代表作","dst":"《琵琶行》"}', '{"src":"白居易","relation":"代表作","dst":"《卖炭翁》"}', '{"src":"白居易","relation":"代表作","dst":"《大林寺桃花》"}', '{"src":"白居易","relation":"代表作","dst":"《长恨歌》"}']
+INFO:root:Line 2: ['{"src":"杜甫","relation":"字","dst":"杜"}', '{"src":"杜甫","relation":"号","dst":"少陵野老"}', '{"src":"杜甫","relation":"字","dst":"杜"}', '{"src":"杜甫","relation":"祖籍","dst":"河南府巩县"}', '{"src":"杜甫","relation":"出生地","dst":"河南巩义市"}', '{"src":"杜甫","relation":"称号","dst":"诗圣"}', '{"src":"杜甫","relation":"称号","dst":"诗史"}', '{"src":"杜甫","relation":"代表作","dst":"约1400余首"}', '{"src":"杜甫","relation":"代表作","dst":"《登高》"}', '{"src":"杜甫","relation":"代表作","dst":"《春望》"}', '{"src":"杜甫","relation":"代表作","dst":"《曲江池》"}', '{"src":"杜甫","relation":"代表作","dst":"《安塞腰鼓》"}']
+INFO:root:Line 3: ['{"src":"李白","relation":"字","dst":"太白"}', '{"src":"李白","relation":"号","dst":"青莲居士"}', '{"src":"李白","relation":"字","dst":"太白"}', '{"src":"李白","relation":"祖籍","dst":"陇西成纪(今甘肃省秦安县)"}', '{"src":"李白","relation":"出生地","dst":"蜀郡绵州昌隆县(一说出生于西域碎叶)"}', '{"src":"李白","relation":"称号","dst":"诗仙"}', '{"src":"李白","relation":"称号","dst":"李杜"}', '{"src":"李白","relation":"代表作","dst":"《望庐山瀑布》"}', '{"src":"李白","relation":"代表作","dst":"《行路难》"}', '{"src":"李白","relation":"代表作","dst":"《蜀道难》"}', '{"src":"李白","relation":"代表作","dst":"《将进酒》"}', '{"src":"李白","relation":"代表作","dst":"《早发白帝城》"}']
+INFO:root:抽取三元组已全部写入result/glm_result_zh.txt中
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 0: ['{"src": "苏轼", "relation": "字", "dst": "子瞻、和仲"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人、东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "称号", "dst": "宋四家之一"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 0: ['{"src": "苏轼", "relation": "字", "dst": "子瞻"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人"}', '{"src": "苏轼", "relation": "号", "dst": "东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡"}', '{"src": "苏轼", "relation": "别称", "dst": "苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "北宋著名文学家、书法家、画家"}', '{"src": "苏轼", "relation": "称号", "dst": "历史治水名人"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 1: ['{"src": "白居易", "relation": "字", "dst": "乐天"}', '{"src": "白居易", "relation": "号", "dst": "香山居士"}', '{"src": "白居易", "relation": "号", "dst": "醉吟先生"}', '{"src": "白居易", "relation": "祖籍", "dst": "太原"}', '{"src": "白居易", "relation": "出生地", "dst": "河南新郑"}', '{"src": "白居易", "relation": "称号", "dst": "元白"}', '{"src": "白居易", "relation": "称号", "dst": "刘白"}', '{"src": "白居易", "relation": "代表作", "dst": "《长恨歌》"}', '{"src": "白居易", "relation": "代表作", "dst": "《卖炭翁》"}', '{"src": "白居易", "relation": "代表作", "dst": "《琵琶行》"}']
+INFO:root:Line 2: ['{"src": "杜甫", "relation": "字", "dst": "子美"}', '{"src": "杜甫", "relation": "号", "dst": "少陵野老"}', '{"src": "杜甫", "relation": "称号", "dst": "杜工部"}', '{"src": "杜甫", "relation": "称号", "dst": "杜少陵"}', '{"src": "杜甫", "relation": "称号", "dst": "诗圣"}', '{"src": "杜甫", "relation": "出生地", "dst": "河南府巩县（今河南省巩义市）"}', '{"src": "杜甫", "relation": "代表作", "dst": "《诗史》"}', '{"src": "杜甫", "relation": "关系", "dst": "李杜"}', '{"src": "杜甫", "relation": "称号", "dst": "大李杜"}', '{"src": "杜甫", "relation": "居所", "dst": "成都"}', '{"src": "杜甫", "relation": "纪念", "dst": "杜甫草堂"}']
+INFO:root:抽取三元组已全部写入result/qwen_result_zh.txt中
+INFO:root:正在使用glm模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:Line 0: ['{"src":"苏轼","relation":"字","dst":"子瞻"}', '{"src":"苏轼","relation":"号","dst":"铁冠道人"}', '{"src":"苏轼","relation":"祖籍","dst":"眉州眉山(四川省眉山市)"}', '{"src":"苏轼","relation":"出生地","dst":"四川省眉山市"}', '{"src":"苏轼","relation":"称号","dst":"北宋中期文坛领袖"}', '{"src":"苏轼","relation":"称号","dst":"文学巨匠"}', '{"src":"苏轼","relation":"代表作","dst":"《赤壁赋》"}', '{"src":"苏轼","relation":"代表作","dst":"《水调歌头》"}', '{"src":"苏轼","relation":"代表作","dst":"《念奴娇·赤壁怀古》"}', '{"src":"苏轼","relation":"代表作","dst":"《前赤壁赋》"}']
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+ERROR:root:Error open filedata/prompt/prompt_zh.txt: [Errno 2] No such file or directory: 'data/prompt/prompt_zh.txt'
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+ERROR:root:Error open file:'data/中华文化通识预处理.txt': [Errno 2] No such file or directory: 'data/中华文化通识预处理.txt'
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+ERROR:root:Error open file:'data/中华文化通识预处理.txt': [Errno 2] No such file or directory: 'data/中华文化通识预处理.txt'
+INFO:root:正在使用glm模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 0: ['{"src":"苏轼","relation":"字","dst":"子瞻"}', '{"src":"苏轼","relation":"号","dst":"铁冠道人"}', '{"src":"苏轼","relation":"祖籍","dst":"眉州眉山"}', '{"src":"苏轼","relation":"出生地","dst":"四川省眉山市"}', '{"src":"苏轼","relation":"称号","dst":"东坡居士"}', '{"src":"苏轼","relation":"称号","dst":"宋诗派领袖"}', '{"src":"苏轼","relation":"代表作","dst":"《赤壁怀古》"}', '{"src":"苏轼","relation":"代表作","dst":"《水调歌头》"}', '{"src":"苏轼","relation":"代表作","dst":"《念奴娇·赤壁怀古》"}']
+INFO:root:Line 1: ['{"src":"李白","relation":"字","dst":"太白"}', '{"src":"李白","relation":"号","dst":"青莲居士"}', '{"src":"李白","relation":"字","dst":"太白"}', '{"src":"李白","relation":"祖籍","dst":"陇西成纪(今甘肃省秦安县)"}', '{"src":"李白","relation":"出生地","dst":"蜀郡绵州昌隆县(一说出生于西域碎叶)"}', '{"src":"李白","relation":"称号","dst":"诗仙"}', '{"src":"李白","relation":"称号","dst":"李杜"}', '{"src":"李白","relation":"代表作","dst":"《望庐山瀑布》"}', '{"src":"李白","relation":"代表作","dst":"《行路难》"}', '{"src":"李白","relation":"代表作","dst":"《蜀道难》"}', '{"src":"李白","relation":"代表作","dst":"《将进酒》"}', '{"src":"李白","relation":"代表作","dst":"《早发白帝城》"}']
+INFO:root:Line 2: ['{"src":"杜甫","relation":"字","dst":"子美"}', '{"src":"杜甫","relation":"号","dst":"少陵野老"}', '{"src":"杜甫","relation":"字","dst":"杜工部"}', '{"src":"杜甫","relation":"祖籍","dst":"河南府巩县(今河南省巩义市)"}', '{"src":"杜甫","relation":"出生地","dst":"成都"}', '{"src":"杜甫","relation":"称号","dst":"诗圣"}', '{"src":"杜甫","relation":"称号","dst":"诗史"}', '{"src":"杜甫","relation":"代表作","dst":"《登高》"}', '{"src":"杜甫","relation":"代表作","dst":"《春望》"}', '{"src":"杜甫","relation":"代表作","dst":"《曲江》"}']
+INFO:root:抽取三元组已全部写入/home/bfeoe/NLP/result/glm_result_zh.txt中
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+ERROR:root:Error open file:'data/中华文化通识预处理.txt': [Errno 2] No such file or directory: 'data/中华文化通识预处理.txt'
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+ERROR:root:Error open file:'data/中华文化通识预处理.txt': [Errno 2] No such file or directory: 'data/中华文化通识预处理.txt'
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:Line 0: ['{"src": "苏轼", "relation": "字", "dst": "子瞻"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人"}', '{"src": "苏轼", "relation": "号", "dst": "东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡"}', '{"src": "苏轼", "relation": "别称", "dst": "苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏黄（与黄庭坚）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏辛（与辛弃疾）"}', '{"src": "苏轼", "relation": "称号", "dst": "欧苏（与欧阳修）"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+ERROR:root:Error write: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+INFO:root:存在部分处理异常语句，正在重新处理
+INFO:root:存在部分处理异常语句，正在重新处理
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff48d404730>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f959a101720>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:Line 0: ['{"src": "苏轼", "relation": "字", "dst": "子瞻、和仲"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人、东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "称号", "dst": "宋四家之一"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 1: ['{"src": "白居易", "relation": "字", "dst": "乐天"}', '{"src": "白居易", "relation": "号", "dst": "香山居士"}', '{"src": "白居易", "relation": "号", "dst": "醉吟先生"}', '{"src": "白居易", "relation": "祖籍", "dst": "太原"}', '{"src": "白居易", "relation": "出生地", "dst": "河南新郑"}', '{"src": "白居易", "relation": "称号", "dst": "元白"}', '{"src": "白居易", "relation": "称号", "dst": "刘白"}', '{"src": "白居易", "relation": "代表作", "dst": "《长恨歌》"}', '{"src": "白居易", "relation": "代表作", "dst": "《卖炭翁》"}', '{"src": "白居易", "relation": "代表作", "dst": "《琵琶行》"}']
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f40ec5fc910>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:存在部分处理异常语句，正在重新处理
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f40ec5fc040>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:Line 0: ['{"src": "苏轼", "relation": "字", "dst": "子瞻、和仲"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人、东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "称号", "dst": "宋四家之一"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 1: ['{"src": "白居易", "relation": "字", "dst": "乐天"}', '{"src": "白居易", "relation": "号", "dst": "香山居士"}', '{"src": "白居易", "relation": "号", "dst": "醉吟先生"}', '{"src": "白居易", "relation": "祖籍", "dst": "太原"}', '{"src": "白居易", "relation": "出生地", "dst": "河南新郑"}', '{"src": "白居易", "relation": "称号", "dst": "唐代三大诗人之一"}', '{"src": "白居易", "relation": "称号", "dst": "元白"}', '{"src": "白居易", "relation": "称号", "dst": "刘白"}', '{"src": "白居易", "relation": "代表作", "dst": "《长恨歌》"}', '{"src": "白居易", "relation": "代表作", "dst": "《卖炭翁》"}', '{"src": "白居易", "relation": "代表作", "dst": "《琵琶行》"}']
+INFO:root:Line 2: ['{"src": "杜甫", "relation": "字", "dst": "子美"}', '{"src": "杜甫", "relation": "自号", "dst": "少陵野老"}', '{"src": "杜甫", "relation": "称号", "dst": "杜工部"}', '{"src": "杜甫", "relation": "称号", "dst": "杜少陵"}', '{"src": "杜甫", "relation": "祖籍", "dst": "河南府巩县（今河南省巩义市）"}', '{"src": "杜甫", "relation": "称号", "dst": "诗圣"}', '{"src": "杜甫", "relation": "代表作", "dst": "诗史"}', '{"src": "杜甫", "relation": "称号", "dst": "大李杜"}', '{"src": "杜甫", "relation": "代表作", "dst": "杜甫草堂"}']
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+ERROR:root:Error write: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+INFO:root:存在部分处理异常语句，正在重新处理
+INFO:root:存在部分处理异常语句，正在重新处理
+INFO:root:存在部分处理异常语句，正在重新处理
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd58f3ec730>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f225d1aa020>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4a45cec730>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《中华文化通识预处理.txt》文件
+INFO:root:Line 0: ['{"src": "苏轼", "relation": "字", "dst": "子瞻、和仲"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人、东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "称号", "dst": "宋四家之一"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 0: ['{"src": "苏轼", "relation": "字", "dst": "子瞻"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人"}', '{"src": "苏轼", "relation": "号", "dst": "东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡"}', '{"src": "苏轼", "relation": "别称", "dst": "苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏黄（与黄庭坚）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏辛（与辛弃疾）"}', '{"src": "苏轼", "relation": "称号", "dst": "欧苏（与欧阳修）"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 1: ['{"src": "白居易", "relation": "字", "dst": "乐天"}', '{"src": "白居易", "relation": "号", "dst": "香山居士"}', '{"src": "白居易", "relation": "别号", "dst": "醉吟先生"}', '{"src": "白居易", "relation": "祖籍", "dst": "太原"}', '{"src": "白居易", "relation": "出生地", "dst": "河南新郑"}', '{"src": "白居易", "relation": "称号", "dst": "元白"}', '{"src": "白居易", "relation": "称号", "dst": "刘白"}', '{"src": "白居易", "relation": "代表作", "dst": "《长恨歌》"}', '{"src": "白居易", "relation": "代表作", "dst": "《卖炭翁》"}', '{"src": "白居易", "relation": "代表作", "dst": "《琵琶行》"}']
+INFO:root:Line 1: ['{"src": "白居易", "relation": "字", "dst": "乐天"}', '{"src": "白居易", "relation": "号", "dst": "香山居士"}', '{"src": "白居易", "relation": "号", "dst": "醉吟先生"}', '{"src": "白居易", "relation": "祖籍", "dst": "太原"}', '{"src": "白居易", "relation": "出生地", "dst": "河南新郑"}', '{"src": "白居易", "relation": "称号", "dst": "唐代三大诗人之一"}', '{"src": "白居易", "relation": "称号", "dst": "元白"}', '{"src": "白居易", "relation": "称号", "dst": "刘白"}', '{"src": "白居易", "relation": "代表作", "dst": "《长恨歌》"}', '{"src": "白居易", "relation": "代表作", "dst": "《卖炭翁》"}', '{"src": "白居易", "relation": "代表作", "dst": "《琵琶行》"}']
+INFO:root:Line 2: ['{"src": "杜甫", "relation": "字", "dst": "子美"}', '{"src": "杜甫", "relation": "自号", "dst": "少陵野老"}', '{"src": "杜甫", "relation": "别称", "dst": "杜工部"}', '{"src": "杜甫", "relation": "别称", "dst": "杜少陵"}', '{"src": "杜甫", "relation": "祖籍", "dst": "河南府巩县（今河南省巩义市）"}', '{"src": "杜甫", "relation": "称号", "dst": "诗圣"}', '{"src": "杜甫", "relation": "代表作", "dst": "《诗史》"}', '{"src": "杜甫", "relation": "关系", "dst": "李杜"}', '{"src": "杜甫", "relation": "称号", "dst": "大李杜"}', '{"src": "杜甫", "relation": "居所", "dst": "成都（杜甫草堂）"}']
+INFO:root:Line 2: ['{"src": "杜甫", "relation": "字", "dst": "子美"}', '{"src": "杜甫", "relation": "自号", "dst": "少陵野老"}', '{"src": "杜甫", "relation": "别称", "dst": "杜工部"}', '{"src": "杜甫", "relation": "别称", "dst": "杜少陵"}', '{"src": "杜甫", "relation": "祖籍", "dst": "河南府巩县（今河南省巩义市）"}', '{"src": "杜甫", "relation": "称号", "dst": "诗圣"}', '{"src": "杜甫", "relation": "代表作", "dst": "诗史"}', '{"src": "杜甫", "relation": "代表作", "dst": "《杜甫诗集》"}', '{"src": "杜甫", "relation": "居所", "dst": "成都（杜甫草堂）"}']
+INFO:root:Line 3: ['{"src": "辛弃疾", "relation": "字", "dst": "坦夫"}', '{"src": "辛弃疾", "relation": "后改字", "dst": "幼安"}', '{"src": "辛弃疾", "relation": "别号", "dst": "稼轩"}', '{"src": "辛弃疾", "relation": "祖籍", "dst": "山东东路济南府历城县（今山东省济南市历城区）"}', '{"src": "辛弃疾", "relation": "出生地", "dst": "山东东路济南府历城县（今山东省济南市历城区）"}', '{"src": "辛弃疾", "relation": "称号", "dst": "词中之龙"}', '{"src": "辛弃疾", "relation": "合称", "dst": "苏辛"}', '{"src": "辛弃疾", "relation": "并称", "dst": "济南二安"}']
+INFO:root:Line 3: ['{"src": "辛弃疾", "relation": "字", "dst": "坦夫"}', '{"src": "辛弃疾", "relation": "后改字", "dst": "幼安"}', '{"src": "辛弃疾", "relation": "别号", "dst": "稼轩"}', '{"src": "辛弃疾", "relation": "祖籍", "dst": "山东东路济南府历城县（今山东省济南市历城区）"}', '{"src": "辛弃疾", "relation": "出生地", "dst": "山东东路济南府历城县（今山东省济南市历城区）"}', '{"src": "辛弃疾", "relation": "称号", "dst": "词中之龙"}', '{"src": "辛弃疾", "relation": "合称", "dst": "苏辛"}', '{"src": "辛弃疾", "relation": "合称", "dst": "济南二安"}']
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5772211b40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:存在部分处理异常语句，正在重新处理
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5772212470>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 0: ['{"src": "苏轼", "relation": "字", "dst": "子瞻、和仲"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人、东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "称号", "dst": "宋四家之一"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 1: ['{"src": "白居易", "relation": "字", "dst": "乐天"}', '{"src": "白居易", "relation": "号", "dst": "香山居士"}', '{"src": "白居易", "relation": "号", "dst": "醉吟先生"}', '{"src": "白居易", "relation": "祖籍", "dst": "太原"}', '{"src": "白居易", "relation": "出生地", "dst": "河南新郑"}', '{"src": "白居易", "relation": "称号", "dst": "唐代三大诗人之一"}', '{"src": "白居易", "relation": "称号", "dst": "元白"}', '{"src": "白居易", "relation": "称号", "dst": "刘白"}', '{"src": "白居易", "relation": "代表作", "dst": "《长恨歌》"}', '{"src": "白居易", "relation": "代表作", "dst": "《卖炭翁》"}', '{"src": "白居易", "relation": "代表作", "dst": "《琵琶行》"}']
+INFO:root:Line 2: ['{"src": "杜甫", "relation": "字", "dst": "子美"}', '{"src": "杜甫", "relation": "号", "dst": "少陵野老"}', '{"src": "杜甫", "relation": "称号", "dst": "杜工部"}', '{"src": "杜甫", "relation": "称号", "dst": "杜少陵"}', '{"src": "杜甫", "relation": "祖籍", "dst": "河南府巩县（今河南省巩义市）"}', '{"src": "杜甫", "relation": "称号", "dst": "诗圣"}', '{"src": "杜甫", "relation": "代表作", "dst": "诗史"}', '{"src": "杜甫", "relation": "代表作", "dst": "《杜甫诗集》"}', '{"src": "杜甫", "relation": "时期", "dst": "唐代"}', '{"src": "杜甫", "relation": "关系", "dst": "李杜"}', '{"src": "杜甫", "relation": "关系", "dst": "大李杜"}', '{"src": "杜甫", "relation": "居所", "dst": "成都"}', '{"src": "杜甫", "relation": "纪念地", "dst": "杜甫草堂"}']
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+INFO:root:存在部分处理异常语句，正在重新处理
+INFO:root:存在部分处理异常语句，正在重新处理
+INFO:root:存在部分处理异常语句，正在重新处理
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f282b6e9ff0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fe4f8628700>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f772f964700>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 0: ['{"src": "苏轼", "relation": "字", "dst": "子瞻、和仲"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人、东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "称号", "dst": "苏黄（与黄庭坚合称）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏辛（与辛弃疾合称）"}', '{"src": "苏轼", "relation": "称号", "dst": "欧苏（与欧阳修并称）"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 1: []
+INFO:root:Line 2: ['{"src": "杜甫", "relation": "字", "dst": "子美"}', '{"src": "杜甫", "relation": "自号", "dst": "少陵野老"}', '{"src": "杜甫", "relation": "别称", "dst": "杜工部"}', '{"src": "杜甫", "relation": "别称", "dst": "杜少陵"}', '{"src": "杜甫", "relation": "祖籍", "dst": "河南府巩县（今河南省巩义市）"}', '{"src": "杜甫", "relation": "称号", "dst": "诗圣"}', '{"src": "杜甫", "relation": "代表作", "dst": "诗史"}', '{"src": "杜甫", "relation": "关系", "dst": "李杜"}', '{"src": "杜甫", "relation": "称号", "dst": "大李杜"}', '{"src": "杜甫", "relation": "居所", "dst": "成都"}', '{"src": "杜甫", "relation": "纪念地", "dst": "杜甫草堂"}']
+INFO:root:抽取三元组已全部写入/home/bfeoe/NLP/result/qwen_result_zh.txt中
+INFO:root:存在部分处理异常语句，正在重新处理
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 0: []
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 0: ['{"src": "苏轼", "relation": "字", "dst": "子瞻、和仲"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人、东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "称号", "dst": "苏黄（与黄庭坚）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏辛（与辛弃疾）"}', '{"src": "苏轼", "relation": "称号", "dst": "欧苏（与欧阳修）"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 1: ['{"src": "李白", "relation": "字", "dst": "太白"}', '{"src": "李白", "relation": "号", "dst": "青莲居士"}', '{"src": "李白", "relation": "号", "dst": "谪仙人"}', '{"src": "李白", "relation": "祖籍", "dst": "陇西成纪（今甘肃省秦安县）"}', '{"src": "李白", "relation": "出生地", "dst": "蜀郡绵州昌隆县（一说出生于西域碎叶）"}', '{"src": "李白", "relation": "称号", "dst": "诗仙"}', '{"src": "李白", "relation": "称号", "dst": "李杜"}', '{"src": "李白", "relation": "代表作", "dst": "《望庐山瀑布》"}', '{"src": "李白", "relation": "代表作", "dst": "《行路难》"}', '{"src": "李白", "relation": "代表作", "dst": "《蜀道难》"}', '{"src": "李白", "relation": "代表作", "dst": "《将进酒》"}', '{"src": "李白", "relation": "代表作", "dst": "《早发白帝城》"}']
+INFO:root:抽取三元组已全部写入/home/bfeoe/NLP/result/qwen_result_zh.txt中
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 0: ['{"src": "苏轼", "relation": "字", "dst": "子瞻"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人"}', '{"src": "苏轼", "relation": "号", "dst": "东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡"}', '{"src": "苏轼", "relation": "别称", "dst": "苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏黄（与黄庭坚并称）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏辛（与辛弃疾并称）"}', '{"src": "苏轼", "relation": "称号", "dst": "欧苏（与欧阳修并称）"}', '{"src": "苏轼", "relation": "关系", "dst": "唐宋八大家之一"}', '{"src": "苏轼", "relation": "擅长", "dst": "书法（宋四家之一）"}', '{"src": "苏轼", "relation": "擅长", "dst": "文人画"}', '{"src": "苏轼", "relation": "作品", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "作品", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "作品", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "作品", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "作品", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 1: []
+INFO:root:Line 0: ['{"src": "苏轼", "relation": "字", "dst": "子瞻"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人"}', '{"src": "苏轼", "relation": "号", "dst": "东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡"}', '{"src": "苏轼", "relation": "别称", "dst": "苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "北宋著名文学家、书法家、画家"}', '{"src": "苏轼", "relation": "称号", "dst": "历史治水名人"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 0: ['{"src": "苏轼", "relation": "字", "dst": "子瞻"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人"}', '{"src": "苏轼", "relation": "号", "dst": "东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡"}', '{"src": "苏轼", "relation": "别称", "dst": "苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "北宋著名文学家"}', '{"src": "苏轼", "relation": "称号", "dst": "书法家"}', '{"src": "苏轼", "relation": "称号", "dst": "画家"}', '{"src": "苏轼", "relation": "称号", "dst": "历史治水名人"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 1: []
+INFO:root:Line 2: ['{"src": "杜甫", "relation": "字", "dst": "子美"}', '{"src": "杜甫", "relation": "号", "dst": "少陵野老"}', '{"src": "杜甫", "relation": "称号", "dst": "杜工部"}', '{"src": "杜甫", "relation": "称号", "dst": "杜少陵"}', '{"src": "杜甫", "relation": "祖籍", "dst": "河南府巩县（今河南省巩义市）"}', '{"src": "杜甫", "relation": "称号", "dst": "诗圣"}', '{"src": "杜甫", "relation": "代表作", "dst": "《诗史》"}', '{"src": "杜甫", "relation": "关系", "dst": "李杜"}', '{"src": "杜甫", "relation": "称号", "dst": "大李杜"}', '{"src": "杜甫", "relation": "居留地", "dst": "成都"}', '{"src": "杜甫", "relation": "遗迹", "dst": "杜甫草堂"}']
+INFO:root:抽取三元组已全部写入/home/bfeoe/NLP/result/qwen_result_zh.txt中
+INFO:root:存在部分处理异常语句，正在重新处理
+INFO:root:Line 0: []
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8bf24cc820>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:存在部分处理异常语句，正在重新处理
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8bf24cc8e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 0: ['{"src": "苏轼", "relation": "字", "dst": "子瞻"}', '{"src": "苏轼", "relation": "号", "dst": "东坡居士"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人"}', '{"src": "苏轼", "relation": "号", "dst": "苏东坡"}', '{"src": "苏轼", "relation": "号", "dst": "苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "称号", "dst": "苏黄"}', '{"src": "苏轼", "relation": "称号", "dst": "苏辛"}', '{"src": "苏轼", "relation": "称号", "dst": "欧苏"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 1: []
+INFO:root:Line 2: ['{"src": "杜甫", "relation": "字", "dst": "子美"}', '{"src": "杜甫", "relation": "号", "dst": "少陵野老"}', '{"src": "杜甫", "relation": "别称", "dst": "杜工部"}', '{"src": "杜甫", "relation": "别称", "dst": "杜少陵"}', '{"src": "杜甫", "relation": "祖籍", "dst": "河南府巩县（今河南省巩义市）"}', '{"src": "杜甫", "relation": "称号", "dst": "诗圣"}', '{"src": "杜甫", "relation": "代表作", "dst": "《诗史》"}', '{"src": "杜甫", "relation": "称号", "dst": "大李杜"}', '{"src": "杜甫", "relation": "代表作", "dst": "《杜甫全集》"}', '{"src": "杜甫", "relation": "居住地", "dst": "成都"}', '{"src": "杜甫", "relation": "纪念地", "dst": "杜甫草堂"}']
+INFO:root:抽取三元组已全部写入/home/bfeoe/NLP/result/qwen_result_zh.txt中
+INFO:root:存在部分处理异常语句，正在重新处理
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+ERROR:root:Error write: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 1: ['{"src": "苏轼", "relation": "字", "dst": "子瞻"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人"}', '{"src": "苏轼", "relation": "号", "dst": "东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡"}', '{"src": "苏轼", "relation": "别称", "dst": "苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏黄（与黄庭坚）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏辛（与辛弃疾）"}', '{"src": "苏轼", "relation": "称号", "dst": "欧苏（与欧阳修）"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 1: ['{"src": "苏轼", "relation": "字", "dst": "子瞻"}', '{"src": "苏轼", "relation": "号", "dst": "东坡居士"}', '{"src": "苏轼", "relation": "别号", "dst": "铁冠道人"}', '{"src": "苏轼", "relation": "号", "dst": "苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏东坡"}', '{"src": "苏轼", "relation": "称号", "dst": "苏仙"}', '{"src": "苏轼", "relation": "称号", "dst": "苏黄（与黄庭坚并称）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏辛（与辛弃疾并称）"}', '{"src": "苏轼", "relation": "称号", "dst": "欧苏（与欧阳修并称）"}', '{"src": "苏轼", "relation": "关系", "dst": "唐宋八大家之一"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 1: ['{"src": "苏轼", "relation": "字", "dst": "子瞻、和仲"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人、东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "称号", "dst": "苏黄"}', '{"src": "苏轼", "relation": "称号", "dst": "苏辛"}', '{"src": "苏轼", "relation": "称号", "dst": "欧苏"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bd3678a00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4bb99a09a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:存在部分处理异常语句，正在重新处理
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4bb99a0250>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 1: ['{"src": "苏轼", "relation": "字", "dst": "子瞻、和仲"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人、东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "称号", "dst": "宋四家之一"}', '{"src": "苏轼", "relation": "称号", "dst": "千古文章四大家"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+ERROR:root:Error write: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+INFO:root:存在部分处理异常语句，正在重新处理
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd62d81d7b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 0: ['{"src": "苏轼", "relation": "字", "dst": "子瞻、和仲"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人、东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "称号", "dst": "宋四家之一"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 1: []
+INFO:root:Line 2: ['{"src": "杜甫", "relation": "字", "dst": "子美"}', '{"src": "杜甫", "relation": "号", "dst": "少陵野老"}', '{"src": "杜甫", "relation": "别称", "dst": "杜工部"}', '{"src": "杜甫", "relation": "别称", "dst": "杜少陵"}', '{"src": "杜甫", "relation": "称号", "dst": "诗圣"}', '{"src": "杜甫", "relation": "出生地", "dst": "河南府巩县（今河南省巩义市）"}', '{"src": "杜甫", "relation": "代表作", "dst": "《诗史》"}', '{"src": "杜甫", "relation": "关系", "dst": "李杜"}', '{"src": "杜甫", "relation": "称号", "dst": "大李杜"}', '{"src": "杜甫", "relation": "居所", "dst": "成都"}', '{"src": "杜甫", "relation": "遗迹", "dst": "杜甫草堂"}']
+INFO:root:抽取三元组已全部写入/home/bfeoe/NLP/result/qwen_result_zh.txt中
+INFO:root:存在部分处理异常语句，正在重新处理
+INFO:root:Line 0: []
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 0: ['{"src": "苏轼", "relation": "字", "dst": "子瞻、和仲"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人、东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "称号", "dst": "苏黄（与黄庭坚）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏辛（与辛弃疾）"}', '{"src": "苏轼", "relation": "称号", "dst": "欧苏（与欧阳修）"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 0: ['{"src": "苏轼", "relation": "字", "dst": "子瞻、和仲"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人、东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "称号", "dst": "宋四家之一"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 1: []
+INFO:root:Line 2: ['{"src": "杜甫", "relation": "字", "dst": "子美"}', '{"src": "杜甫", "relation": "号", "dst": "少陵野老"}', '{"src": "杜甫", "relation": "别称", "dst": "杜工部"}', '{"src": "杜甫", "relation": "别称", "dst": "杜少陵"}', '{"src": "杜甫", "relation": "祖籍", "dst": "河南府巩县（今河南省巩义市）"}', '{"src": "杜甫", "relation": "称号", "dst": "诗圣"}', '{"src": "杜甫", "relation": "代表作", "dst": "《诗史》"}', '{"src": "杜甫", "relation": "关系", "dst": "李杜"}', '{"src": "杜甫", "relation": "称号", "dst": "大李杜"}', '{"src": "杜甫", "relation": "时期", "dst": "唐代"}', '{"src": "杜甫", "relation": "居所", "dst": "成都"}', '{"src": "杜甫", "relation": "纪念", "dst": "杜甫草堂"}']
+INFO:root:抽取三元组已全部写入/home/bfeoe/NLP/result/qwen_result_zh.txt中
+INFO:root:存在部分处理异常语句，正在重新处理
+INFO:root:Line 0: []
+INFO:root:Line 1: ['{"src": "李白", "relation": "字", "dst": "太白"}', '{"src": "李白", "relation": "号", "dst": "青莲居士"}', '{"src": "李白", "relation": "号", "dst": "谪仙人"}', '{"src": "李白", "relation": "祖籍", "dst": "陇西成纪（今甘肃省秦安县）"}', '{"src": "李白", "relation": "出生地", "dst": "蜀郡绵州昌隆县（一说出生于西域碎叶）"}', '{"src": "李白", "relation": "称号", "dst": "诗仙"}', '{"src": "李白", "relation": "称号", "dst": "李杜"}', '{"src": "李白", "relation": "代表作", "dst": "《望庐山瀑布》"}', '{"src": "李白", "relation": "代表作", "dst": "《行路难》"}', '{"src": "李白", "relation": "代表作", "dst": "《蜀道难》"}', '{"src": "李白", "relation": "代表作", "dst": "《将进酒》"}', '{"src": "李白", "relation": "代表作", "dst": "《早发白帝城》"}']
+INFO:root:Line 2: ['{"src": "李白", "relation": "字", "dst": "太白"}', '{"src": "李白", "relation": "号", "dst": "青莲居士"}', '{"src": "李白", "relation": "号", "dst": "谪仙人"}', '{"src": "李白", "relation": "祖籍", "dst": "陇西成纪（今甘肃省秦安县）"}', '{"src": "李白", "relation": "出生地", "dst": "蜀郡绵州昌隆县（一说出生于西域碎叶）"}', '{"src": "李白", "relation": "称号", "dst": "诗仙"}', '{"src": "李白", "relation": "称号", "dst": "李杜"}', '{"src": "李白", "relation": "代表作", "dst": "《望庐山瀑布》"}', '{"src": "李白", "relation": "代表作", "dst": "《行路难》"}', '{"src": "李白", "relation": "代表作", "dst": "《蜀道难》"}', '{"src": "李白", "relation": "代表作", "dst": "《将进酒》"}', '{"src": "李白", "relation": "代表作", "dst": "《早发白帝城》"}']
+INFO:root:Line 3: ['{"src": "李白", "relation": "字", "dst": "太白"}', '{"src": "李白", "relation": "号", "dst": "青莲居士"}', '{"src": "李白", "relation": "号", "dst": "谪仙人"}', '{"src": "李白", "relation": "祖籍", "dst": "陇西成纪（今甘肃省秦安县）"}', '{"src": "李白", "relation": "出生地", "dst": "蜀郡绵州昌隆县（一说出生于西域碎叶）"}', '{"src": "李白", "relation": "称号", "dst": "诗仙"}', '{"src": "李白", "relation": "称号", "dst": "李杜"}', '{"src": "李白", "relation": "代表作", "dst": "《望庐山瀑布》"}', '{"src": "李白", "relation": "代表作", "dst": "《行路难》"}', '{"src": "李白", "relation": "代表作", "dst": "《蜀道难》"}', '{"src": "李白", "relation": "代表作", "dst": "《将进酒》"}', '{"src": "李白", "relation": "代表作", "dst": "《早发白帝城》"}']
+INFO:root:抽取三元组已全部写入/home/bfeoe/NLP/result/qwen_result_zh.txt中
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 1: ['{"src": "苏轼", "relation": "字", "dst": "子瞻、和仲"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人、东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "称号", "dst": "宋四家之一"}', '{"src": "苏轼", "relation": "称号", "dst": "千古文章四大家"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 2: []
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 1: ['{"src": "苏轼", "relation": "字", "dst": "子瞻"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人"}', '{"src": "苏轼", "relation": "号", "dst": "东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡"}', '{"src": "苏轼", "relation": "别称", "dst": "苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏黄"}', '{"src": "苏轼", "relation": "称号", "dst": "苏辛"}', '{"src": "苏轼", "relation": "称号", "dst": "欧苏"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 2: []
+INFO:root:Line 3: ['{"src": "杜甫", "relation": "字", "dst": "子美"}', '{"src": "杜甫", "relation": "号", "dst": "少陵野老"}', '{"src": "杜甫", "relation": "称号", "dst": "杜工部"}', '{"src": "杜甫", "relation": "称号", "dst": "杜少陵"}', '{"src": "杜甫", "relation": "祖籍", "dst": "河南府巩县（今河南省巩义市）"}', '{"src": "杜甫", "relation": "称号", "dst": "诗圣"}', '{"src": "杜甫", "relation": "代表作", "dst": "《诗史》"}', '{"src": "杜甫", "relation": "关系", "dst": "李杜"}', '{"src": "杜甫", "relation": "称号", "dst": "大李杜"}', '{"src": "杜甫", "relation": "居留地", "dst": "成都"}', '{"src": "杜甫", "relation": "遗迹", "dst": "杜甫草堂"}']
+INFO:root:抽取三元组已全部写入/home/bfeoe/NLP/result/qwen_result_zh.txt中
+INFO:root:存在部分处理异常语句，正在重新处理
+INFO:root:Line 1: []
+INFO:root:抽取三元组已全部写入/home/bfeoe/NLP/result/qwen_result_zh.txt中
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+INFO:root:存在部分处理异常语句，正在重新处理
+INFO:root:存在部分处理异常语句，正在重新处理
+INFO:root:存在部分处理异常语句，正在重新处理
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbc5453c340>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f955683c4c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fe798f3c4c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+ERROR:root:Error write: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error write: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+INFO:root:存在部分处理异常语句，正在重新处理
+INFO:root:存在部分处理异常语句，正在重新处理
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa74bb508b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR:root:Error write: HTTPConnectionPool(host='localhost', port=8848): Max retries exceeded with url: /qwen (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f56a1b548b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 1: ['{"src": "苏轼", "relation": "字", "dst": "子瞻"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人"}', '{"src": "苏轼", "relation": "号", "dst": "东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡"}', '{"src": "苏轼", "relation": "别称", "dst": "苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "北宋著名文学家、书法家、画家"}', '{"src": "苏轼", "relation": "称号", "dst": "历史治水名人"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 1: ['{"src": "苏轼", "relation": "字", "dst": "子瞻"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人"}', '{"src": "苏轼", "relation": "号", "dst": "东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡"}', '{"src": "苏轼", "relation": "别称", "dst": "苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "北宋著名文学家、书法家、画家"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 2: []
+INFO:root:Line 2: []
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 3: ['{"src": "杜甫", "relation": "字", "dst": "子美"}', '{"src": "杜甫", "relation": "自号", "dst": "少陵野老"}', '{"src": "杜甫", "relation": "称号", "dst": "杜工部"}', '{"src": "杜甫", "relation": "称号", "dst": "杜少陵"}', '{"src": "杜甫", "relation": "祖籍", "dst": "河南府巩县（今河南省巩义市）"}', '{"src": "杜甫", "relation": "称号", "dst": "诗圣"}', '{"src": "杜甫", "relation": "代表作", "dst": "《诗史》"}', '{"src": "杜甫", "relation": "关系", "dst": "李杜"}', '{"src": "杜甫", "relation": "称号", "dst": "大李杜"}', '{"src": "杜甫", "relation": "居留地", "dst": "成都"}', '{"src": "杜甫", "relation": "遗迹", "dst": "杜甫草堂"}']
+INFO:root:抽取三元组已全部写入/home/bfeoe/NLP/result/qwen_result_zh.txt中
+INFO:root:存在部分处理异常语句，正在重新处理
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 1: ['{"src": "苏轼", "relation": "字", "dst": "子瞻、和仲"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人、东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "称号", "dst": "宋四家之一"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 2: []
+INFO:root:Line 3: ['{"src": "杜甫", "relation": "字", "dst": "子美"}', '{"src": "杜甫", "relation": "自号", "dst": "少陵野老"}', '{"src": "杜甫", "relation": "别称", "dst": "杜工部"}', '{"src": "杜甫", "relation": "别称", "dst": "杜少陵"}', '{"src": "杜甫", "relation": "祖籍", "dst": "河南府巩县（今河南省巩义市）"}', '{"src": "杜甫", "relation": "称号", "dst": "诗圣"}', '{"src": "杜甫", "relation": "代表作", "dst": "诗史"}', '{"src": "杜甫", "relation": "称号", "dst": "大李杜"}', '{"src": "杜甫", "relation": "代表作", "dst": "杜甫草堂"}']
+INFO:root:抽取三元组已全部写入/home/bfeoe/NLP/result/qwen_result_zh.txt中
+INFO:root:存在部分处理异常语句，正在重新处理
+INFO:root:Line 1: []
+INFO:root:抽取三元组已全部写入/home/bfeoe/NLP/result/qwen_result_zh.txt中
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 1: ['{"src": "苏轼", "relation": "字", "dst": "子瞻"}', '{"src": "苏轼", "relation": "号", "dst": "东坡居士"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人"}', '{"src": "苏轼", "relation": "号", "dst": "苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏东坡"}', '{"src": "苏轼", "relation": "称号", "dst": "苏仙"}', '{"src": "苏轼", "relation": "称号", "dst": "苏黄"}', '{"src": "苏轼", "relation": "称号", "dst": "苏辛"}', '{"src": "苏轼", "relation": "称号", "dst": "欧苏"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:正在使用qwen模型，使用zhprompt，处理名为《Test.txt》文件
+INFO:root:Line 1: ['{"src": "苏轼", "relation": "字", "dst": "子瞻、和仲"}', '{"src": "苏轼", "relation": "号", "dst": "铁冠道人、东坡居士"}', '{"src": "苏轼", "relation": "别称", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "祖籍", "dst": "河北栾城"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉州眉山（四川省眉山市）"}', '{"src": "苏轼", "relation": "称号", "dst": "苏东坡、苏仙"}', '{"src": "苏轼", "relation": "称号", "dst": "宋四家之一"}', '{"src": "苏轼", "relation": "称号", "dst": "千古文章四大家"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡七集》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡易传》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《东坡乐府》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《潇湘竹石图卷》"}', '{"src": "苏轼", "relation": "代表作", "dst": "《古木怪石图卷》"}']
+INFO:root:Line 2: ['{"src":"李白","relation":"字","dst":"太白"}', '{"src":"李白","relation":"号","dst":"青莲居士"}', '{"src":"李白","relation":"号","dst":"谪仙人"}', '{"src":"李白","relation":"祖籍","dst":"陇西成纪（今甘肃省秦安县）"}', '{"src":"李白","relation":"出生地","dst":"蜀郡绵州昌隆县（一说出生于西域碎叶）"}', '{"src":"李白","relation":"称号","dst":"诗仙"}', '{"src":"李白","relation":"称号","dst":"李杜"}', '{"src":"李白","relation":"代表作","dst":"《望庐山瀑布》"}', '{"src":"李白","relation":"代表作","dst":"《行路难》"}', '{"src":"李白","relation":"代表作","dst":"《蜀道难》"}', '{"src":"李白","relation":"代表作","dst":"《将进酒》"}', '{"src":"李白","relation":"代表作","dst":"《早发白帝城》"}']
+INFO:root:Line 3: ['{"src": "杜甫", "relation": "字", "dst": "子美"}', '{"src": "杜甫", "relation": "自号", "dst": "少陵野老"}', '{"src": "杜甫", "relation": "称号", "dst": "杜工部"}', '{"src": "杜甫", "relation": "称号", "dst": "杜少陵"}', '{"src": "杜甫", "relation": "祖籍", "dst": "河南府巩县（今河南省巩义市）"}', '{"src": "杜甫", "relation": "称号", "dst": "诗圣"}', '{"src": "杜甫", "relation": "代表作", "dst": "《诗史》"}', '{"src": "杜甫", "relation": "关系", "dst": "李杜"}', '{"src": "杜甫", "relation": "称号", "dst": "大李杜"}', '{"src": "杜甫", "relation": "居所", "dst": "成都"}', '{"src": "杜甫", "relation": "纪念地", "dst": "杜甫草堂"}']
+INFO:root:抽取三元组已全部写入/home/bfeoe/NLP/result/qwen_result_zh.txt中
+INFO:root:存在部分处理异常语句，正在重新处理
+INFO:root:Line 1: []
+INFO:root:抽取三元组已全部写入/home/bfeoe/NLP/result/qwen_result_zh.txt中
+INFO:root:仍存在异常语句，详情请查看/home/bfeoe/NLP/data/error_data.txt文件
+INFO:root:正在使用qwen模型，使用enprompt，处理名为《Test.txt》文件
+INFO:root:Line 1: ['{"src": "苏轼", "relation": "字", "dst": "子瞻"}', '{"src": "苏轼", "relation": "号", "dst": "东坡居士"}', '{"src": "苏轼", "relation": "别号", "dst": "苏仙"}', '{"src": "苏轼", "relation": "国籍", "dst": "汉"}', '{"src": "苏轼", "relation": "祖籍", "dst": "眉山,眉州（眉山市,四川省）"}', '{"src": "苏轼", "relation": "出生地", "dst": "眉山,眉州（眉山市,四川省）"}', '{"src": "苏轼", "relation": "称号", "dst": "文学家,书法家,画家,治水名人"}', '{"src": "苏轼", "relation": "朝代", "dst": "北宋中期"}', '{"src": "苏轼", "relation": "诗歌成就", "dst": "诗、词、散文、书画皆有大成"}', '{"src": "苏轼", "relation": "风格特点", "dst": "题材广泛,清新豪健,善用夸张比喻,风格独特"}', '{"src": "苏轼", "relation": "笔墨", "dst": "开豪放一派,与辛弃疾并称‘苏辛’"}', '{"src": "苏轼", "relation": "散文特点", "dst": "富赡雄放,欧阳修称‘欧苏’,‘唐宋八大家’之一"}', '{"src": "苏轼", "relation": "作品", "dst": "《东坡七集》《东坡志林》《东坡乐府》《潇湘竹石图》《古木怪石图》等"}']

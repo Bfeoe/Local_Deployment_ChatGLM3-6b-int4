@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Main View</title>
+    <style>
+        /* 重置默认样式 */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+
+            background-image: url('/home/bfeoe/NLP/PromptProject/Test/templates/background.jpg') no-repeat center;
+            background-size: cover;
+            background-attachment: fixed;
+        }
+
+        /* 居中布局的容器 */
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh; /* 占据整个视口的高度 */
+            padding: 20px;
+            background-color: #f3f3f3; /* 背景色 */
+        }
+
+        /* 标题样式 */
+        h1 {
+            color: #333;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        /* 表单样式 */
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 15px; /* 表单元素之间的间距 */
+            width: 300px; /* 表单宽度 */
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* 表单元素样式 */
+        label, select, input[type="submit"] {
+            font-size: 16px;
+        }
+
+        select, input[type="submit"] {
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        /* 提交按钮样式 */
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: #fff;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+
+        /* 文本区域样式 */
+        textarea {
+            width: 600px;
+            height: 300px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            resize: none;
+            background-color: #fff;
+        }
+    </style>
+</head>
+
+<body>
+    
+    <div class="container">
+        <h1>选择模型和语言</h1>
+        <form method="get" action="">
+            <label for="model">选择模型:</label>
+            <select id="model" name="model">
+                <option value="qwen" {% if model == 'qwen' %}selected{% endif %}>Qwen</option>
+                <option value="glm" {% if model == 'glm' %}selected{% endif %}>GLM</option>
+            </select>
+
+            <label for="language">选择语言:</label>
+            <select id="language" name="language">
+                <option value="zh" {% if language == 'zh' %}selected{% endif %}>中文</option>
+                <option value="en" {% if language == 'en' %}selected{% endif %}>英文</option>
+            </select>
+
+            <input type="submit" value="提交">
+        </form>
+
+        <h2>文件内容:</h2>
+        <textarea readonly>{{ file_content }}</textarea>
+    </div>
+</body>
+
+</html>
