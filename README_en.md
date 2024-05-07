@@ -1,3 +1,5 @@
+**Languages: [English](README_en.md)|[中文](README.md)**
+
 # Task basic requirements (each ⭐️=10 points) :
 
 1. [Remote LLM test ⭐️⭐️] Prepare no less than 3 examples and test them on the remote large model.
