@@ -1,0 +1,11 @@
+cpm_kernels
+dashscope
+Django
+numpy
+Requests
+sentencepiece
+starlette
+tensorflow
+torch
+transformers==4.27.1
+uvicorn
